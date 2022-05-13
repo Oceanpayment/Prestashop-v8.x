@@ -13,3 +13,42 @@ PrestaShop is a full-featured, cross-platform, free and open source e-commerce s
     <li>Enable payment plugin.</li>
     <li>Configure Oceanpayment account information.</li>
 </ol>
+<table>
+  <tr>
+    <td>Account</td>
+    <td>Provide by Oceanpayment technical support.</td>
+  </tr>
+  <tr>
+    <td>Terminal</td>
+    <td>Provide by Oceanpayment technical support.</td>
+  </tr>
+  <tr>
+    <td>SecureCode</td>
+    <td>Provide by Oceanpayment technical support.</td>
+  </tr>
+  <tr>
+    <td>Transaction URL</td>
+    <td>Production environment：https://secure.oceanpayment.com/gateway/service/pay<br>
+      Sandbox environment：https://test-secure.oceanpayment.com/gateway/service/pay</td>
+  </tr>
+  <tr>
+    <td>Pay Mode</td>
+    <td>Redirect:Redirect to open payment page<br>Iframe:iframe payment page.</td>
+  </tr>
+  <tr>
+    <td>Unpaid Status</td>
+    <td>Awaiting Payment</td>
+  </tr>
+  <tr>
+    <td>Success Status</td>
+    <td>Payment accepted</td>
+  </tr>
+  <tr>
+    <td>Fail Status</td>
+    <td>Failed</td>
+  </tr>
+  <tr>
+    <td>Pending Status</td>
+    <td>Pending</td>
+  </tr>
+</table>
